@@ -1,0 +1,83 @@
+[
+  {
+    "article": "A001",
+    "name": "Ноутбук",
+    "category": "Электроника",
+    "quantity": 5,
+    "price": 50000.0,
+    "date": "01.09.2024",
+    "comment": ""
+  },
+  {
+    "article": "A001",
+    "name": "",
+    "category": "Электроника",
+    "quantity": 5,
+    "price": 50000.0,
+    "date": "01.09.2024",
+    "comment": ""
+  },
+  {
+    "article": "",
+    "name": "",
+    "category": "Электроника",
+    "quantity": 5,
+    "price": 50000.0,
+    "date": "01.09.2024",
+    "comment": ""
+  },
+  {
+    "article": "A001A001",
+    "name": "Ноутбук",
+    "category": "Электроника",
+    "quantity": 5,
+    "price": 50000.0,
+    "date": "01.09.2024",
+    "comment": ""
+  },
+  {
+    "article": "A001A001",
+    "name": "Ноутбук",
+    "category": "Электроника",
+    "quantity": 0,
+    "price": 50000.0,
+    "date": "01.09.2024",
+    "comment": ""
+  },
+  {
+    "article": "A001A001",
+    "name": "Ноутбук",
+    "category": "Электроника",
+    "quantity": -1,
+    "price": 50000.0,
+    "date": "01.09.2024",
+    "comment": ""
+  },
+  {
+    "article": "A001A001",
+    "name": "Ноутбук",
+    "category": "Электроника",
+    "quantity": 5,
+    "price": 0.0,
+    "date": "01.09.2024",
+    "comment": ""
+  },
+  {
+    "article": "A001A001",
+    "name": "Ноутбук",
+    "category": "Электроника",
+    "quantity": 5,
+    "price": 50000.0,
+    "date": "32.13.2024",
+    "comment": ""
+  },
+  {
+    "article": "A001",
+    "name": "Ноутбук",
+    "category": "",
+    "quantity": 5,
+    "price": 50000.0,
+    "date": "01.09.2024",
+    "comment": ""
+  }
+]
